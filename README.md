@@ -79,13 +79,13 @@ app/src/main/java/com/example/calculadoracarrinho/
 ### Emulador
 
 <p align="center">
-  <img src="prints/emulador.png" alt="App rodando no emulador" width="320" />
+  <img src="prints/emulador.PNG" alt="App rodando no emulador" width="320" />
 </p>
 
 ### Logcat
 
 <p align="center">
-  <img src="prints/logcat.png" alt="Relatório no Logcat" width="100%" />
+  <img src="prints/logcat.PNG" alt="Relatório no Logcat" width="100%" />
 </p>
 
 ---
